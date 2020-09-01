@@ -1,0 +1,46 @@
+    .calenderContainerOutBox{    
+        padding: 10px;        
+        height: 660px;
+        margin: 10px;
+    }
+    .calenderDateCellsValues{
+        color: #1899E1;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .calenderDateCellsPin{
+        margin-top: 1px;
+        float: right;
+    }
+    .addAppoimentsModalFormRow{
+        margin: -24px;
+    }
+    .addAppoimentsModalFormDateContainer{
+        background-color: #40A9FF;
+        height: 350px;
+    }
+    .addAppoimentsModalFormDateContainerDayMonth{
+        font-size: 50px;
+        text-align: center;
+        color: white
+    }
+    .addAppoimentsModalFormDateContainerDate{
+        font-size: 100px;
+        text-align: center;
+        color: white
+    }
+    .addAppoimentsModalFormContainer{
+        background-color: #EEEEEE;
+        height: 350px; 
+    }
+    .addAppoimentsModalFormContainerIcon{
+        text-align: center;
+    }
+    .addAppoimentsModalFormContainerFormItem{
+        margin-left: 100px;
+        font-weight: bold;
+    }
+    .addAppoimentsModalFormContainerFormItemButton{
+        margin-left: 350px;
+    }
+    
